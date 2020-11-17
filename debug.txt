@@ -1,0 +1,106 @@
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 3 InWhichSet[4]: 4 InWhichSet[5]: 5 InWhichSet[6]: 6 InWhichSet[7]: 7 InWhichSet[8]: 8 InWhichSet[9]: 9 InWhichSet[10]: 10 InWhichSet[11]: 11 InWhichSet[12]: 12
+Contents of list head edge linked list: <0,0,0> <6,4,3>
+
+Contents of list head edge linked list: <0,0,0> <6,4,3> <12,7,4>
+
+Contents of list head edge linked list: <0,0,0> <6,4,3> <12,7,4> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <6,4,3> <12,7,4> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <6,4,3> <9,10,4> <12,7,4> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <2,4,1> <6,4,3> <9,10,4> <12,7,4> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <2,4,1> <6,4,3> <9,10,4> <12,7,4> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <2,4,1> <6,4,3> <9,10,4> <12,7,4> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <2,4,1> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <2,4,1> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <2,4,1> <8,6,2> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <2,4,1> <9,8,2> <8,6,2> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <8,10,1> <2,4,1> <9,8,2> <8,6,2> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <8,10,1> <2,4,1> <5,4,2> <9,8,2> <8,6,2> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <8,10,1> <2,4,1> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <8,10,1> <2,4,1> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <8,10,1> <2,4,1> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <8,10,1> <2,4,1> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of list head edge linked list: <0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 3 InWhichSet[4]: 4 InWhichSet[5]: 5 InWhichSet[6]: 6 InWhichSet[7]: 7 InWhichSet[8]: 8 InWhichSet[9]: 9 InWhichSet[10]: 8 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <8,10,1>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 3 InWhichSet[4]: 2 InWhichSet[5]: 5 InWhichSet[6]: 6 InWhichSet[7]: 7 InWhichSet[8]: 8 InWhichSet[9]: 9 InWhichSet[10]: 8 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 3 InWhichSet[4]: 2 InWhichSet[5]: 5 InWhichSet[6]: 6 InWhichSet[7]: 6 InWhichSet[8]: 8 InWhichSet[9]: 9 InWhichSet[10]: 8 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <6,7,2>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 3 InWhichSet[4]: 2 InWhichSet[5]: 2 InWhichSet[6]: 6 InWhichSet[7]: 6 InWhichSet[8]: 8 InWhichSet[9]: 9 InWhichSet[10]: 8 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <5,4,2> <6,7,2>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 3 InWhichSet[4]: 2 InWhichSet[5]: 2 InWhichSet[6]: 6 InWhichSet[7]: 6 InWhichSet[8]: 8 InWhichSet[9]: 8 InWhichSet[10]: 8 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <9,8,2> <5,4,2> <6,7,2>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 3 InWhichSet[4]: 2 InWhichSet[5]: 2 InWhichSet[6]: 6 InWhichSet[7]: 6 InWhichSet[8]: 6 InWhichSet[9]: 6 InWhichSet[10]: 6 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <8,6,2> <9,8,2> <5,4,2> <6,7,2>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 2 InWhichSet[4]: 2 InWhichSet[5]: 2 InWhichSet[6]: 6 InWhichSet[7]: 6 InWhichSet[8]: 6 InWhichSet[9]: 6 InWhichSet[10]: 6 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <8,6,2> <9,8,2> <5,4,2> <6,7,2> <4,3,3>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 2 InWhichSet[3]: 2 InWhichSet[4]: 2 InWhichSet[5]: 2 InWhichSet[6]: 1 InWhichSet[7]: 1 InWhichSet[8]: 1 InWhichSet[9]: 1 InWhichSet[10]: 1 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <8,6,2> <9,8,2> <5,4,2> <6,7,2> <1,6,3> <4,3,3>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 1 InWhichSet[3]: 1 InWhichSet[4]: 1 InWhichSet[5]: 1 InWhichSet[6]: 1 InWhichSet[7]: 1 InWhichSet[8]: 1 InWhichSet[9]: 1 InWhichSet[10]: 1 InWhichSet[11]: 11 InWhichSet[12]: 12
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <8,6,2> <9,8,2> <5,4,2> <6,7,2> <6,4,3> <1,6,3> <4,3,3>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 1 InWhichSet[3]: 1 InWhichSet[4]: 1 InWhichSet[5]: 1 InWhichSet[6]: 1 InWhichSet[7]: 1 InWhichSet[8]: 1 InWhichSet[9]: 1 InWhichSet[10]: 1 InWhichSet[11]: 11 InWhichSet[12]: 1
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <8,6,2> <9,8,2> <5,4,2> <6,7,2> <6,4,3> <1,6,3> <4,3,3> <12,7,4>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+
+Contents of InWhichSet Array : 
+ InWhichSet[0]: 0 InWhichSet[1]: 1 InWhichSet[2]: 1 InWhichSet[3]: 1 InWhichSet[4]: 1 InWhichSet[5]: 1 InWhichSet[6]: 1 InWhichSet[7]: 1 InWhichSet[8]: 1 InWhichSet[9]: 1 InWhichSet[10]: 1 InWhichSet[11]: 1 InWhichSet[12]: 1
+Printing out contents of List Head MST Linked List<0,0,0> <2,4,1> <8,10,1> <8,6,2> <9,8,2> <5,4,2> <6,7,2> <6,4,3> <1,6,3> <4,3,3> <12,7,4> <9,11,5>
+
+Printing out contents of List Head Edge Linked List<0,0,0> <8,10,1> <2,4,1> <6,7,2> <5,4,2> <9,8,2> <8,6,2> <4,3,3> <1,6,3> <6,4,3> <3,5,4> <9,10,4> <12,7,4> <5,7,5> <3,2,5> <9,11,5> <1,11,6> <1,2,6> <10,12,7> <6,12,7>
+

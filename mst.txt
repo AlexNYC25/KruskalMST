@@ -1,0 +1,5 @@
+Final Linked List Representing MST of graph
+<0,0,0> <2,4,1> <8,10,1> <8,6,2> <9,8,2> <5,4,2> <6,7,2> <6,4,3> <1,6,3> <4,3,3> <12,7,4> <9,11,5>
+
+
+Final Cost of MST 28  
