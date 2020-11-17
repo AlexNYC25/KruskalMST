@@ -1,3 +1,8 @@
+/*
+    Project 7: Kruskal MST
+    By: Alexis Montes
+*/
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -81,10 +86,14 @@ class KruskalMST{
         // first real node is the node after the dummy
         edgeNode pointer = listHead.next;
 
+        /*
+            typical list head removal dosent work, we need to traverse using inWhichSet to validate
+            to return actual possible edge for mst
+        */
         while(true){
             /*
                 we check if the edge is valid in the function
-                otherwise for some reason nullpoint error occurs
+                otherwise for some reason null point error occurs
             */
             if(inWhichSet[pointer.Ni] != inWhichSet[pointer.Nj]){
                 edgeNode temp = new edgeNode(pointer.Ni, pointer.Nj, pointer.cost);
@@ -185,7 +194,6 @@ public class Project7{
 
     public static void main(String[] args) {
 
-        System.out.println("started program");
 
         Scanner inFile = null;
         BufferedWriter mstFile = null;
@@ -203,7 +211,6 @@ public class Project7{
     
 
         KruskalMST graph = new KruskalMST(numOfNodesInFile);
-        System.out.println("finished creating graph object");
         // print ary
         graph.printArr(debugFile);
 
@@ -215,12 +222,10 @@ public class Project7{
 
             tempInsert = new edgeNode(ni, nj, cost);
 
-            System.out.println("created new node: " + tempInsert.Ni + " " + tempInsert.Nj + " " + tempInsert.cost);
-
             graph.insert(tempInsert, graph.listHeadEdge);
 
             // print list
-            graph.printListDebug(graph.listHeadEdge);
+            //graph.printListDebug(graph.listHeadEdge);
             try{
                 debugFile.write("Contents of list head edge linked list: ");
             } catch (Exception e){
@@ -230,13 +235,11 @@ public class Project7{
             graph.printList(graph.listHeadEdge, debugFile);
         }
 
-        System.out.println("finished reading values");
         
         
 
         edgeNode nextEdge;
         while(graph.numSets > 1){
-            System.out.println("in heart of program num sets " + graph.numSets);
 
             do{
                 nextEdge = graph.removeEdge(graph.listHeadEdge);
@@ -270,8 +273,6 @@ public class Project7{
         }
         
 
-        System.out.println("Finished moving edges and about to close files");
-
         try{
             // printList(listHeadMst, mstFile)
             mstFile.write("Final Linked List Representing MST of graph\n");
@@ -290,7 +291,7 @@ public class Project7{
             mstFile.close();
 
 
-            System.out.println("closing files");
+            //System.out.println("closing files");
 
         } catch(Exception e){
 
